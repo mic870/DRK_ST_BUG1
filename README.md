@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐃𝐑𝐊_𝐒𝐓_BUG;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
-  </a>
-</p>
+  </a># Handle all other messages with content_type 'text' (content types are strings)</p>
 
 ![DRK_ST_BUG](https://telegra.ph/file/e6a6d6fe8675c96a3bcb8.jpg)
 <p align="center">
@@ -27,7 +26,7 @@
 #### PAIRING SERVER 
 <a href="https://drk-tech-1.onrender.com/" target="_blank">
   <img alt="Pairing Code Server " src="https://img.shields.io/badge/PAIRING CODE-green?style=for-the-badge&logo=opencv&logoColor=white"/>
-</a>
+</a>github
 
 ---
 
